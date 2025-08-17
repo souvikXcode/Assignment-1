@@ -1,4 +1,6 @@
-int main(int argc, char *argv[])
+#include<stdio.h>
+int main( )
 {
-	
+	printf("ADAMAS UNIVERSITY");
+	return 0;
 }
